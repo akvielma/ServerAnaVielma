@@ -1,0 +1,17 @@
+[
+  {
+    title: 'Rip pants',
+    price: '100',
+    thumbnail: 'https://images.app.goo.gl/bs3D2NeYHFGbbAY28'
+  },
+  {
+    title: 'Rainbow sweater',
+    price: '68',
+    thumbnail: 'https://images.app.goo.gl/awJQuLDVCwEdXGeY8'
+  },
+  {
+    title: 'Lilac set for winter',
+    price: '155',
+    thumbnail: 'https://images.app.goo.gl/wEPKrwxRtP2Duk6o9'
+  }
+]
